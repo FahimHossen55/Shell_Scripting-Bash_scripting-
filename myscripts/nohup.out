@@ -1,0 +1,18 @@
+./function.sh: 3: function: not found
+_____________
+__ welcome___
+--------------
+./function.sh: 9: welcomenote: not found
+./function.sh: 11: function: not found
+./function.sh: 15: let: not found
+total sum : 
+./function.sh: 19: addition: not found
+./function.sh: 3: function: not found
+_____________
+__ welcome___
+--------------
+./function.sh: 9: welcomenote: not found
+./function.sh: 11: function: not found
+./function.sh: 15: let: not found
+total sum : 
+./function.sh: 19: addition: not found
